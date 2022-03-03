@@ -3,10 +3,10 @@ Meie tiimi ideeks on discgolfi ketaste laenutus/rentimis site. Seal saad oma ket
 # Süsteemikasutajad - Admin / Kasutaja
 ## Funktsioonid
 - Admin
-  - sisestab
+  - sisestab ketta info
   - kustutab
-  - väljastab
-  - võtab tagasi
+  - väljastab kettaid
+  - võtab kettaid tagasi
 - Kasutaja
   - otsida ketta asukoha järgi
   - broneerida
