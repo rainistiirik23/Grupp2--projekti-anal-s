@@ -1,7 +1,7 @@
 # Grupp2--projekti-analuus
 Meie tiimi ideeks on discgolfi ketaste laenutus/rentimis site. Seal saad oma kettad anda laenule voi ära anda kui enam ei taha. Huvilised saavad endale laenata sealt kettaid kui soovivad proovida neid. Saidil on ketaste kohta kõik info kirjas ja üks inimene saab laenata max 3 ketast korraga. Kui sa tahad sellelt saidilt ketast laenata pead tegema kasutaja endale. Kui oled endale sobiva ketta leidnud ja laenutad endale selle, siis pead minema admini juurde, kes tuvastab isiku ja annab ketta üle teile.
 # Süsteemikasutajad - Admin / Kasutaja
-###### Funktsioonid
+## Funktsioonid
 - admin
   - sisestab
   - kustutab
