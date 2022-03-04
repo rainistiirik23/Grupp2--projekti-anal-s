@@ -100,7 +100,7 @@ Esitlus.
 - Tiimi juhendamine
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- Andmebaas ja issues.
+- Andmebaas, wireframe ja issues.
 
 **Andrus Pajuniit**
 
