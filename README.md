@@ -69,26 +69,19 @@ Esitlus.
 -----------
 **TIIMI TAGASISIDE**
 
-1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+
+**Rainis-Ross Tiirik**
+
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 Ei alusta projekti kohe koodi kirjutamisest
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 Kuulamist
-
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 Analüüsimine,planeerimine
 
-
-**Rainis-Ross Tiirik**
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-
-
-2. Üks pehme oskus, mida õppisin ja endas arendasin.
-
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-
-
 **Evert Kärp**
+
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
  Esmalt planeerin ja siis tegutsen
 
@@ -99,6 +92,7 @@ Inimestega suhtlemist
 Github õppisin paremini kasutama ja sain aru mis on andmebaasimudel.
 
 **Silja Kask**
+
 1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 järgmises projektis alustan töökäiku analüüsist ja töökava loomisest.
 
@@ -117,6 +111,7 @@ Andmebaas ja issues.
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
 **Eerik Poopuu**
+
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
   Kohe ei võta vs code lahti,vaid kõigepealt analüüs ja töökäik paika panna
 
@@ -127,6 +122,7 @@ Andmebaas ja issues.
  sain andmebaasimudeli selgemaks ja kuidas teha analüüsi
  
 **Mattias Maasik**
+
 1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 Ajaplaneerimist, töökava planeerimist ja kohe koodi ei kirjuta
 
