@@ -72,13 +72,13 @@ Esitlus.
 
 **Rainis-Ross Tiirik**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
--Ei alusta projekti kohe koodi kirjutamisest
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+- Ei alusta projekti kohe koodi kirjutamisest
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
--Kuulamist
+- Kuulamist
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
--Analüüsimine,planeerimine
+- Analüüsimine,planeerimine
 
 **Evert Kärp**
 
