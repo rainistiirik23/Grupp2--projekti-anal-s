@@ -105,10 +105,13 @@ Esitlus.
 **Andrus Pajuniit**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+- Ilma põhjaliku analüüsi ja peas/paberil/digitaalselt läbi mõtlemata on projekti lõpuni viia pea võimatu. Ei tasu alahinnata sellise töö mahtu.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
+- Hakkasin hindama kontakt koosolekuid ja inimestega vahetut suhtlemist. Virtuaalne koosolek on hea abivahend aga päris ilma vahetu suhtluseta on projekte otsast lõpuni läbi viia parajalt väljakutsete rohke.
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+- Sain jälle veidi targmaks figmas.
 
 **Eerik Poopuu**
 
