@@ -104,7 +104,7 @@ Esitlus.
 
 **Andrus Pajuniit**
 
-1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 
